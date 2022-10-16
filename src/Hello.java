@@ -5,7 +5,7 @@ class Tank
     int cur_move = 1;
     int fuel = 100;
     int b = 1;
-
+//lol
 
     public Tank()
     {
