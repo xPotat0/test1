@@ -4,6 +4,7 @@ class Tank
     int position_y = 0;
     int cur_move = 1;
     int fuel = 100;
+    int a = 1;
 
 
     public Tank()
